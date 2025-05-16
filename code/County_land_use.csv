@@ -1,0 +1,74 @@
+﻿Region,County,land_use_chnage_since_1750,colour
+SW,Cornwall,24.99,grey
+SW,Devon ,76.58,grey
+SW,Somerset,49.84,grey
+SW,Avon,58.08,grey
+SW,Dorset ,30.85,grey
+SW,Wiltshire,57.65,grey
+SW,Glouchester,19.15,grey
+SE,Berkshire,35.86,#2cd554
+SE,Buckinghamshire,21.79,#2cd554
+SE,Kent,43.55,#2cd554
+SE,London,45.64,#2cd554
+SE,Oxfordshire,53.77,#2cd554
+SE,Surrey,15.65,#2cd554
+SE,Sussex,63.28,#2cd554
+EE,Bedfordshire,57.46,#0072b2
+EE,Cambridgeshire,58.45,#0072b2
+EE,Essex,57,#0072b2
+EE,Hertfordshire,62.48,#0072b2
+EE,Norfolk ,58.71,#0072b2
+EE,Suffolk ,55.83,#0072b2
+EM,Derby,50.78,#d55e00
+EM,Leicester,45.55,#d55e00
+EM,Lincolnshire,51.72,#d55e00
+EM,Northamptonshire,50.09,#d55e00
+EM,Nottinghamshire,40.55,#d55e00
+EM,Rutland,46.05,#d55e00
+WM,Herefordshire,55.36,#56b4e9
+WM,Shorpshire,62.12,#56b4e9
+WM,Staffordshire,71.69,#56b4e9
+WM,Warwickshire,45.717,#56b4e9
+WM,West Midlands,68.98,#56b4e9
+WM,Worcestershire,36.05,#56b4e9
+W,Anglesey,34.33,#d49e27
+W,Brecknockshire,41.63,#d49e27
+W,Caernarfonshire,48.32,#d49e27
+W,Ceridigonshire,117.47,#d49e27
+W,Camarthanshire,99.49,#d49e27
+W,Denbighshire_Flintshire,67.19,#d49e27
+W,Glamorganshire,24.27,#d49e27
+W,Gwent,21.88,#d49e27
+W,Merionethshire,28.66,#d49e27
+W,Montgomeryshire,97.29,#d49e27
+W,Pembrokeshire,76.9,#d49e27
+W,Radnorshire,128.61,#d49e27
+NW,Cheshire,80.17,#ff007f
+NW,Cumbria,64.43,#ff007f
+NW,Lancashire,88.09,#ff007f
+NW,Manchester,81.17,#ff007f
+Y,Yorksire,66.51,#8a3a00
+NE,Durham,55.93,#009373
+NE,Northumberland,58.6,#009373
+NI,Antrim ,72.13,#f0e442
+NI,Arnagh,97.71,#f0e442
+NI,Derry ,56.61,#f0e442
+NI,Down,93,#f0e442
+NI,Fernagh,55.18,#f0e442
+NI,Tyrone,58.53,#f0e442
+S,Aberdeenshire,23.34,#cc79a7
+S,Angus,40.27,#cc79a7
+S,Argyll_and_brute,13.36,#cc79a7
+S,Ayrshire,20.17,#cc79a7
+S,Clyde,24.47,#cc79a7
+S,Dumfries_and_galloway,24.35,#cc79a7
+S,Fife,8.13,#cc79a7
+S,Highland,21.32,#cc79a7
+S,Lothian,21.23,#cc79a7
+S,Moray,-11.22,#cc79a7
+S,Hebridies,27.51,#cc79a7
+S,Orkney_Islands,21.48,#cc79a7
+S,Perth_and_kinross,12.04,#cc79a7
+S,Borders,32.56,#cc79a7
+S,Shetlands,-14.17,#cc79a7
+S,Upper_forth,17.07,#cc79a7
